@@ -15,7 +15,7 @@ from setuptools import find_packages, setup, Command
 # 神奇的操作，一个函数完事
 setup(
   name = "lfzhaotest",
-  version = "0.1.0",
+  version = "0.1.1",
   keywords = ("pip", "pathtool","lfzhaotest"),
   description = "lfzhao test",
   long_description = "a test for pip",
